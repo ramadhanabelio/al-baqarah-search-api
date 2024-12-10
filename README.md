@@ -25,15 +25,14 @@ Below is the table of available API endpoints:
 ### Example
 
 - Endpoint: `/search?q=berdoa`
-- Returns up to 3 verses that match the query "kitab" with a similarity score of at least 20%.
+- Returns up to 3 verses that match the query "berdoa" with a similarity score.
 
 ## 📖 Features
 
 1. Search for verses from Surah Al-Baqarah using Indonesian or Arabic text.
 2. Results ranked by similarity score using TF-IDF and cosine similarity.
-3. Adjustable parameters for number of results (`n`) and minimum similarity threshold (`threshold`).
 
-## 🛠️ Project Resources
+## Project Resources
 
 1. Python
 2. Flask
