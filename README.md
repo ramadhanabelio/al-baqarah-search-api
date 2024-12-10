@@ -12,9 +12,9 @@
 
 Below is the table of available API endpoints:
 
-| Method | Endpoint   | Description                                                              |
-| ------ | ---------- | ------------------------------------------------------------------------ |
-| GET    | /search?q= | Search for relevant verses based on query (`q`) and optional parameters. |
+| Method | Endpoint   | Description                                      |
+| ------ | ---------- | ------------------------------------------------ |
+| GET    | /search?q= | Search for relevant verses based on query (`q`). |
 
 ### Query Parameters for `/search`
 
