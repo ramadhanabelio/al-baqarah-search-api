@@ -69,7 +69,7 @@ pip install -r requirements.txt
 **4.** Run the API server:
 
 ```bash
-python app.py
+python api.py
 ```
 
 After following these steps, the API server is now running and can be accessed via a browser or an API testing tool such as Postman.
