@@ -18,11 +18,9 @@ Below is the table of available API endpoints:
 
 ### Query Parameters for `/search`
 
-| Parameter   | Type    | Description                                                                     | Default Value |
-| ----------- | ------- | ------------------------------------------------------------------------------- | ------------- |
-| `q`         | string  | Query to search for (required).                                                 | -             |
-| `n`         | integer | Number of top results to return (optional).                                     | 5             |
-| `threshold` | float   | Minimum similarity score for results to be included in the response (optional). | 0.1           |
+| Parameter | Type   | Description          |
+| --------- | ------ | -------------------- |
+| `q`       | string | Query to search for. |
 
 ### Example
 
